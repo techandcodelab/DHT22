@@ -1,6 +1,5 @@
 # DHT22
 DHT22 Sensor code for STM32F100RB &amp; Serial USART 
-Hello Everyone
 
 in this small project we have 7 files
 1-main.c
